@@ -4,15 +4,16 @@
 # John Doe
 
 
-Développeur web junior, en formation "Développement Web et Accessibilité"
+*Développeur web junior, en formation "Développement Web et Accessibilité"*
 
 [Acceuil]() - [CV](CV.MD) - [Projet](README.md) - [contact](contact.md)
 
 ## Contact
 
 N'hésitez pas une seule seconde, contactez-moi !
-📧![Email](john.doe@example.com)
-📞 06 06 06 06 06
-👔 [Linkedin]()
-🐦[twitter]()
+
+📧 [john.doe@example.com](john.doe@example.com)  
+📞 06 06 06 06 06  
+👔 [Linkedin](www.linkdin.fr)  
+🐦[twitter](www.twitter.com)  
 
