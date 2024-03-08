@@ -8,7 +8,7 @@ S01E11-Atelier-Recap
 
 Développeur web junior, en formation "Développement Web et Accessibilité"
 
-[Acceuil]() - [CV]() - [Projet](projets.md) - [Contact]()
+[Acceuil]() - [CV](CV.MD) - [Projet](projets.md) - [Contact](contact.md)
 
 ## Présentation
 
