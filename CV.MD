@@ -36,4 +36,4 @@
 * Randonnée
 
 
-©2022 - John Doe - [Me contacter](/contact.mdd)
+©2022 - John Doe - [Me contacter](/contact.md)
