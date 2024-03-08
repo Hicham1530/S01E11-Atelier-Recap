@@ -10,26 +10,25 @@
 
 ## CV
 
-### John Doe
+**John Doe**
 
-#256 avenue du web  
+256 avenue du web  
 48000 Saint-Pierre-Le-Jeune  
 [john.doe@example.com](john.doe@example.com)
 
-
-#### Expériences
+ 
 
 * 2022 - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 * 2020 - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 * 2019 - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-#### Formation
+#### Formation :
 
 * 2016 - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 * 2015 - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 * 2013 - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-#### Autres
+#### Autres :
 
 * Permis B
 * Escalade
