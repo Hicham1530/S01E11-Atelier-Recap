@@ -10,11 +10,11 @@ Développeur web junior, en formation **"Développement Web et Accessibilité"**
 
 ## Mes projets
 
-| Client      | Dates | Technologies           | Lien                     |
-|-------------|-------|------------------------|--------------------------|
+| Client      | Dates | Technologies           | Lien                               |
+|-------------|-------|------------------------|------------------------------------|
 | Microsoft   | 2022  | HTML, SASS, JavaScript | [Microsoft](https://microsoft.com) |
-| Google      | 2021  | Node.js               | [Google](https://google.com)   |
-| Mme Michu   | 2017  | HTML, CSS             | [Mme Michu](https://example.com) |
+| Google      | 2021  | Node.js                | [Google](https://google.com)       |
+| Mme Michu   | 2017  | HTML, CSS              | [Mme Michu](https://example.com)   |
 
 ---
 
