@@ -20,7 +20,3 @@
 
 
 ©2022 - John Doe - [Me contacter](/contact.md)
-
-
-
-

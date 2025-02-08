@@ -5,7 +5,7 @@
 Développeur web junior, en formation **"Développement Web et Accessibilité"**
 
 [Accueil](/README.md) - [Projets](/projets.md) - [CV](/CV.md) - [Contact](/Contact.md)
-
+                                                       
 ---
 
 ## Mes projets
@@ -17,5 +17,5 @@ Développeur web junior, en formation **"Développement Web et Accessibilité"**
 | Mme Michu   | 2017  | HTML, CSS              | [Mme Michu](https://example.com)   |
 
 ---
-
+        
 © 2022 - John Doe - [Me contacter](/Contact.md)
